@@ -68,3 +68,27 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Project Details:
+
+This project works as a checklist where you can add your items and check them off once you have packed them. This project makes use 
+of one of the main React hooks known as "useState" hook to store and update the the necessary variable.
+
+### Project Photos
+
+<img width="1386" alt="Clear List" src="https://github.com/RahimAbbas55/Far-Away-React-Project/assets/101935846/48f85cf2-4f9b-4cea-9f7b-385451404783">
+
+<img width="1385" alt="Sort By Input Order" src="https://github.com/RahimAbbas55/Far-Away-React-Project/assets/101935846/408e1828-c44d-47fa-933e-2071a9273e6b">
+
+<img width="1386" alt="Sort By Packed Order" src="https://github.com/RahimAbbas55/Far-Away-React-Project/assets/101935846/161b775d-e589-44ec-a341-13723907cc4c">
+
+
+To use this project, simply make a new React project by using the following command:
+
+### "npx create-react-app far-away" & copy the "App.js" & "index.css" in your "Src" folder.
+
+### After doing this, run "npm install" to install the necessary imports if you don't have those.
+
+### After all these steps, just write the following command on your terminal "npm start" to start the development server.
+
